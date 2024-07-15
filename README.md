@@ -1,5 +1,7 @@
 # Atliq Hospitality Analysis
 
+Link To : [**Interactive Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiNThhYzMxNjgtZmVhYi00OGI2LWIwOWMtMzcyODY5ZGExNTJhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
 # Introduction
 
 AtliQ Grands is a highly respected name in hospitality, known for its outstanding 20-year history. They have a strong presence in major Indian cities like Delhi, Mumbai, Bangalore, and Hyderabad and own a group of top-notch five-star hotels. They are dedicated to providing excellent service and luxurious accommodations.
